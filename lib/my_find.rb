@@ -9,7 +9,6 @@ def my_find(collection)
     end
     i += 1
   end
-  new_array
 end
 collection = (1..100).to_a
 binding.pry
